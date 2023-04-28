@@ -11,5 +11,6 @@ https://usflfelipe.github.io/portfolio-challenge/
 
 ## Screenshot
 
-![screenshot 1](./assets/images/screenshot-1.jpg)
-![screenshot 2](./assets/images/screenshot-2.jpg)
+![screenshot 1](./assets/images/screenshot-1.PNG)
+![screenshot 2](./assets/images/screenshot-2.PNG)
+![screenshot 3](./assets/images/screenshot-3.PNG)
